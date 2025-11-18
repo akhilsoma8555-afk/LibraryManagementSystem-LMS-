@@ -53,36 +53,7 @@ Run the program:
 
 java LibraryManagementSystem
 
-🔹 Flowchart (Program Logic)
-          ┌──────────────────┐
-          │   Start Program   │
-          └───────┬──────────┘
-                  ▼
-       ┌───────────────────────┐
-       │ Display Main Menu     │
-       └───────┬───────────────┘
-               ▼
-   ┌─────────────────────────┐
-   │ User Selects Operation  │
-   └───────┬─────────────────┘
-           ▼
- ┌───────────────────────────────┐
- │ Add / View / Issue / Return / │
- │ Search Books                  │
- └───────┬───────────────────────┘
-         ▼
- ┌──────────────────────────────┐
- │ Perform Operation & Update   │
- │ books.txt / students.txt     │
- └───────┬──────────────────────┘
-         ▼
- ┌───────────────────────────┐
- │ Back to Main Menu? Yes →  │
- └───────┬───────────────────┘
-         ▼
-      ┌───────────┐
-      │   Exit     │
-      └───────────┘
+
 
 🔹 Sample Output (Terminal)
 ========= Library Management System =========
